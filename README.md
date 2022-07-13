@@ -1,6 +1,6 @@
 # 一键Shadowsocks+V2Ray-plugin快速部署到Heroku
 
-**推荐使用最新的：<https://github.com/ygcaicn/Xray-heroku>**
+**推荐使用最新的：<https://github.com/ahmetusta123/ss-heroku**
 
 点击下面按钮部署,好用的话记得点个Star：
 
